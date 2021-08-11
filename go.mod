@@ -1,4 +1,4 @@
-module chat
+module github.com/GiovannyHdz/goChat
 
 go 1.16
 
